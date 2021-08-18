@@ -24,3 +24,5 @@ public class ExampleInstrumentedTest {
         assertEquals("com.movep.demogit", appContext.getPackageName());
     }
 }
+
+// Inserindo comentário aleatório
